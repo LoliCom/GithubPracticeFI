@@ -1,0 +1,5 @@
+function Lolicom(){
+
+echo "I am Lolicom!!!!!";
+
+}
