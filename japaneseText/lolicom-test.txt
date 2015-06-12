@@ -1,0 +1,8 @@
+function Lolicom(){
+
+
+
+echo "I am Lolicom!!!!!";
+echo "komatsu is Lolicom!!!!!";
+
+}
