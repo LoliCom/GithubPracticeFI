@@ -1,0 +1,7 @@
+function Lolicom($seiheki){
+
+    $seiheki = "you are Lolicom!!";
+
+    return $seiheki;
+
+}
